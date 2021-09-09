@@ -1,5 +1,10 @@
-
-
+/*************************************************************
+HotPens 2021 September
+Idee: Hubert Schmucker
+Design: und Umsetzung: Michael Boretius
+unter Zuhilfenahme von Code aus "Maiskolben"
+Der Code läuft auf der Platine HotPens Rev-2.0 Juni 2021
+**************************************************************/
 #include <gfxfont.h>
 #include <Adafruit_SPITFT_Macros.h>
 #include <Adafruit_SPITFT.h>
