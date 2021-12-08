@@ -51,6 +51,9 @@ Die Bauanleitung steht unter HotPensDoku.zip (siehe oben) zum Download bereit.<b
 <h3><strong>Labornetzteil</strong></h3>
 <p>  Noch in Planung</p>
 
-2021 September
+<br>
+8. Dezember 2021
+<br>
 Idee und Motivation: Hubert Schmucker
+<br>
 Ausführung: Michael Boretius
