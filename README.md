@@ -1,4 +1,3 @@
-# HotPens30
 # HotPens
  <h3><br />
   <strong>Duale  DIY-Lötstation auf Arduino-Basis für Weller Lötspitzen, mit Touchbedienung und  Drehregler.</strong></h3>
@@ -48,6 +47,6 @@ Im Kalibriermenü können bis zu 8 unterschiedliche Lötspitzentypen kalibriert 
 <h3><strong>Labornetzteil</strong></h3>
 <p>  Noch in Planung</p>
 
-(c) 2021 September
+2021 September
 Idee und Motivation: Hubert Schmucker
 Ausführung: Michael Boretius
