@@ -33,6 +33,10 @@
 <h3>Kalibrierung</h3>
 Im Kalibriermenü können bis zu 8 unterschiedliche Lötspitzentypen kalibriert  und gespeichert werden. Die Kalibrierung ist menugeführt. Für jeden Lötspitzentyp lassen sich die untere Schwelltemperatur (&quot;kalt&quot;) und eine wählbare obere Temeratur (&quot;<em>250</em>&quot;) kalibrieren. Hierzu wird ein geeignetes  Thermometer benötigt. Alternativ kann man ein Lötzinn mit bekanntem  Schmelzpunkt verwenden.<br />
 
+<h3>&nbsp;</h3>
+<h3>Bauanleitung</h3>
+Die Bauanleitung steht unter HotPensDoku.zip (siehe oben) zum Download bereit.<br />
+
 <h2>&nbsp;</h2>
 <h2><strong>Eweiterungen</strong></h2>
 <h3><br />
