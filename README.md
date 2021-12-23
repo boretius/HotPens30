@@ -56,7 +56,7 @@ Platinenwünsche nimmt der Autor unter der Kontaktadresse bei www.netb.de gerne 
 <p>  Noch in Planung</p>
 
 <br>
-8. Dezember 2021
+23. Dezember 2021
 <br>
 Idee und Motivation: Hubert Schmucker
 <br>
