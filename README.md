@@ -37,6 +37,10 @@ Im Kalibriermenü können bis zu 8 unterschiedliche Lötspitzentypen kalibriert 
 <h3>Bauanleitung</h3>
 Die Bauanleitung steht unter HotPensDoku.zip (siehe oben) zum Download bereit.<br />
 
+<h3>&nbsp;</h3>
+<h3>Platine</h3>
+Platinenwünsche nimmt der Autor unter der Kontaktadresse bei www.netb.de gerne entgegen.<br />
+
 <h2>&nbsp;</h2>
 <h2><strong>Eweiterungen</strong></h2>
 <h3><br />
