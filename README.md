@@ -40,6 +40,7 @@ Die Bauanleitung steht unter HotPensDoku.zip (siehe oben) zum Download bereit.<b
 <h3>&nbsp;</h3>
 <h3>Platine</h3>
 Platinenwünsche nimmt der Autor unter der Kontaktadresse bei www.netb.de gerne entgegen.<br />
+Update 5.Feb. 2022: Platine REV2.1 
 
 <h2>&nbsp;</h2>
 <h2><strong>Eweiterungen</strong></h2>
